@@ -1,0 +1,21 @@
+body {
+	background-color: blue;
+	text-align: center;
+}
+
+span {
+	font-size: 12px;
+	color: red;
+}
+
+canvas {
+	background: pink;
+	border-radius: 10px;
+}
+
+h3{
+	color: pink;
+	font-weight: bold;
+	font-family: 'Macondo', cursive;
+	font-size: 50px;
+}
